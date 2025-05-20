@@ -11,7 +11,7 @@ import com.gabrielespindola.hr_payroll.entities.Worker;
 
 
 @Component
-@FeignClient(name = "hr-worker" , url = "localhost:8001" , path = "/workers")
+@FeignClient(name = "hr-worker" ,  path = "/workers")
 public interface WorkerFeignClient {
 	
 	@GetMapping(value = "/{id}")
