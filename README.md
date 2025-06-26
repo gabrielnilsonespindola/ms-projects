@@ -76,6 +76,24 @@
 
 ● Outros
 
+# Importando a collection do Postman
+Para facilitar os testes dos endpoints da API, este projeto inclui uma collection do Postman.
+
+# Como importar:
+
+● Abra o Postman
+
+● Clique em "Import" no canto superior esquerdo
+
+● Selecione a aba "File"
+
+● Clique em "Upload Files"
+
+● Escolha o arquivo ms-projects.postman_collection.json (incluso neste repositório na pasta raiz do projeto, subpasta "postman")
+
+● Clique em "Import"
+
+
 # Modelo Conceitual :
 
 ![img7](https://github.com/user-attachments/assets/fb4d74a7-e7ad-4b0e-af84-e1f30c316bb2)
